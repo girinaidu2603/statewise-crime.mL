@@ -1,2 +1,6 @@
-State,Year,Total_Crime
-Andhra Pradesh,2019,11955
+State,Year,Murder,Rape,Theft,Robbery,Cyber_Crime,Total_Crime
+Andhra Pradesh,2019,853,582,9786,274,1886,11955
+Telangana,2020,669,606,10287,337,2698,13961
+Karnataka,2021,1317,505,15607,1234,2968,23183
+Tamil Nadu,2022,1745,526,16109,706,385,25606
+Maharashtra,2023,2144,2299,21744,2193,4967,35483
